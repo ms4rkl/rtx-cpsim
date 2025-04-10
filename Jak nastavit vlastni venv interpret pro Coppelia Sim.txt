@@ -1,0 +1,10 @@
+NUTNE PRO FUNGOVANI!
+
+
+Najit C:\Users\user\AppData\Roaming\CoppeliaSim\usrset.txt  --> Otevrit --> Nastavit promenou defaultPython:
+
+...
+defaultPython = ""c:\path\to\project\venv\Scripts\python.exe""
+…
+
+Potom se daji do venv doinstalovavat knihovny (viz. requirements.txt), které budou zpristupnene i pro vnitrni scripty Coppelia Sim.
